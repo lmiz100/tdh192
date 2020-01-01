@@ -10,7 +10,7 @@ Web crawler files:
 + [Actors scraper](https://github.com/shaybensimon/tdh192/blob/master/actors-scraper.js)
 + [Wikidata scraper](https://github.com/shaybensimon/tdh192/blob/master/wikidata-handler.js)
 
-Crawlers and Database integation:
+Crawlers and Database integration:
 + [JS index file](https://github.com/shaybensimon/tdh192/blob/master/index.js)
 
 All the connections in Israeli cinema industry has mapped from our database to massive [social network graph](https://github.com/shaybensimon/tdh192/blob/master/json_graph.json.zip) which saved in Json format.
